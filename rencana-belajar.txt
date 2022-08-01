@@ -1,2 +1,5 @@
 1. magang di cv amor
+  *belajar konsep mvc
+  *belajar git & github
+  *membuat sistem ERD
 2. learning by website
